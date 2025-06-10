@@ -1,0 +1,54 @@
+Document Title: IT Security Policy
+Organization: A2Z
+Version: 1.0
+Effective From: [Insert Date]
+Owner: IT Security Department
+
+1. Purpose
+To ensure confidentiality, integrity, and availability of all company IT systems and data.
+
+2. Scope
+Applies to all employees, contractors, and third-party vendors using company resources.
+
+3. Password Policy
+Minimum 8 characters with uppercase, lowercase, number, and symbol.
+
+Passwords must be changed every 90 days.
+
+Password sharing is strictly prohibited.
+
+4. Access Control
+Role-based access will be granted by the IT team.
+
+All access changes must be approved and logged.
+
+5. Antivirus & Updates
+All devices must have up-to-date antivirus software.
+
+Operating systems and software should have latest security patches applied.
+
+6. Remote Access
+VPN must be used for remote connections.
+
+Public Wi-Fi must be avoided unless connected via VPN.
+
+7. Incident Reporting
+Any suspected breach must be reported within 30 minutes to security@[yourdomain].com
+
+Users must not attempt to resolve incidents on their own.
+
+8. Physical Security
+Server rooms are restricted to authorized personnel only.
+
+All visitors must sign in and be accompanied by a staff member.
+
+9. Data Protection
+All sensitive data must be encrypted in transit and at rest.
+
+Data sharing with third parties must comply with legal and internal guidelines.
+
+10. Enforcement
+Violations of this policy may result in disciplinary actions.
+
+Severe cases may lead to termination or legal proceedings.
+

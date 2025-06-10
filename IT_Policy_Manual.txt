@@ -1,0 +1,48 @@
+Organization Name: A2Z
+Document Title: IT Policy Manual
+Version: 1.0
+Effective Date: [Insert Date]
+Reviewed On: [Insert Review Date]
+
+1. Introduction
+This IT Policy Manual outlines the standards, guidelines, and procedures for using information technology resources within the organization.
+
+2. Acceptable Use Policy
+Company IT resources must be used for business-related purposes only.
+
+Personal use of IT systems should be minimal and not interfere with work.
+
+Unauthorized software installations are prohibited.
+
+3. Email & Communication Policy
+Use professional language in all business communications.
+
+Do not open suspicious emails or attachments.
+
+Company email must not be used for personal or unauthorized business.
+
+4. Internet Usage Policy
+Access only safe and business-relevant websites.
+
+Avoid streaming, gaming, or downloading large files unless required.
+
+5. Hardware Policy
+Employees must not modify or relocate hardware without IT approval.
+
+Damaged or malfunctioning equipment must be reported immediately.
+
+6. Software & Licensing
+Only licensed software provided by the IT department may be used.
+
+Pirated or unapproved software is strictly forbidden.
+
+7. Data Backup
+Data should be stored on official servers or approved cloud solutions.
+
+Personal USB drives are not permitted for official data transfer.
+
+8. Policy Violations
+Breach of this policy can result in disciplinary actions including termination.
+
+Repeated offenses will be escalated to HR or legal.
+

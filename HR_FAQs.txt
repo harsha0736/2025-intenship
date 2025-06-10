@@ -1,0 +1,29 @@
+Document Title: Human Resources Frequently Asked Questions (FAQs)
+Version: 1.0
+Prepared By: HR Department
+Last Updated: [Insert Date]
+
+Q1: What are the office working hours?
+A: Monday to Friday, 9:00 AM – 6:00 PM with a 1-hour lunch break.
+
+Q2: How do I apply for leave?
+A: Submit a leave request through the HRMS portal and notify your reporting manager.
+
+Q3: What is the probation period for new employees?
+A: The standard probation period is 6 months from the date of joining.
+
+Q4: When is salary credited?
+A: Salaries are credited on or before the 5th working day of each month.
+
+Q5: Who should I contact in case of harassment or workplace issues?
+A: Please reach out to the HR grievance officer or email hr.support@[yourdomain].com.
+
+Q6: How is performance reviewed?
+A: Performance is reviewed quarterly and annually using the internal appraisal system.
+
+Q7: Can I work from home?
+A: Remote work is subject to managerial approval. Please refer to the Remote Work Policy.
+
+Q8: How do I update my personal information?
+A: You can update your personal details through the HRMS dashboard under the “Profile” section.
+
